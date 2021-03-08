@@ -1,0 +1,6 @@
+module Pods_openHouseSearch {
+  umbrella header "Pods-openHouseSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
